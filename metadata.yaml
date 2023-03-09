@@ -1,0 +1,43 @@
+_repo: The-Big-Four_70114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70114'
+language: en
+pgterms:marc905: 20221227033843christie
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bDell Publishing Co., Inc., $c1927, copyright
+  1955, pubdate 1972.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Poirot, Hercule (Fictitious character) -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Secret societies -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The unexpected guest -- The man from the asylum -- We hear more about
+  Li Chang Yen -- The importance of a leg of mutton -- Disappearance of a scientist
+  -- The woman on the stairs -- The radium thieves -- In the house of the enemy --
+  The yellow jasmine mystery -- We investigate at Croftlands -- A chess problem --
+  The baited trap -- The mouse walks in -- The peroxide blonde -- The terrible catastrophe
+  -- The dying Chinaman -- Number Four wins a trick -- In the Felsenlabyrynth.
+title: The Big Four
+url: http://www.gutenberg.org/ebooks/70114
